@@ -1,0 +1,24 @@
+*{padding: 0;
+    margin: 0;
+}
+h1{
+    
+}
+.list{
+    width: 150px;
+    background-color: black;
+    margin-top: 25px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 0 25px;
+}
+p{
+    margin: 15px 0;
+    
+}
+body{
+    font-family: 'Lucida Console';
+    text-align: center;
+    color:white;
+    background-color: #264651;
+}
